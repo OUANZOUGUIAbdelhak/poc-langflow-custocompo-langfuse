@@ -15,7 +15,7 @@ class LangfusePromptComponent(Component):
     icon = "prompts"
 
     # Hardcoded public key (replace with your value)
-    PUBLIC_KEY = "pk-lf-f84aa860-9e28-4626-a114-4a8dc9066673"
+    PUBLIC_KEY = "pk-***************-4626-a114-4a8dc***********"
     HOST = "http://langfuse-dev:3000"
 
     inputs = [
